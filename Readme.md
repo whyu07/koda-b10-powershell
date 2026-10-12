@@ -30,10 +30,10 @@ touch "Fest Nina.mp3"
 touch "Hindia Everything you are.mp3"
 ```
 ```sh
-touch Hindia-Cincin.mp3
+touch "Hindia Cincin.mp3"
 ```
 ```sh
-touch Naykilla-MMG.mp3
+touch "Naykilla MMG.mp3"
 ```
 ```sh
 touch Naykilla-Kasih-Aba-Aba.mp3
